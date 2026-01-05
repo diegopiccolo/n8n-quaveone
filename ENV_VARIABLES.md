@@ -1,6 +1,8 @@
 # Environment Variables Configuration
 
-Copy these environment variables to your Quave Cloud app settings.
+This is a **template** file. Your actual values are stored in `.env` (which is gitignored).
+
+Copy the environment variables from `.env` to your Quave Cloud app settings.
 
 ## Required Variables
 
